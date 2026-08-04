@@ -1,0 +1,8 @@
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Raw datasets
+02_raw_data/
+
+# Python temporary files
+__pycache__/
